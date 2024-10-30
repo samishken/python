@@ -9,12 +9,13 @@ print("The area of the triangle is: " + str(area))
 
 
 
-
+# get the average
 total = 2048 + 125 
 files = 2
 average = total / files
 print("The average size is: " + str(average))
 
+# bill split
 bill = 47.28
 tip = bill * 0.15
 total = bill + tip
