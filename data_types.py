@@ -1,3 +1,6 @@
+"""
+Test comments
+"""
 # To print data types of the following variables
 brand = "Apple"  # string
 age = 3  # integer
